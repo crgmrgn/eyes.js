@@ -10,5 +10,6 @@
   "version"       : "0.1.8",
   "scripts"       : { "test": "node test/*-test.js" },
   "directories"   : { "lib": "./lib", "test": "./test" },
-  "engines"       : { "node": "> 0.1.90" }
+  "engines"       : { "node": "> 0.1.90" },
+  "repository"    : { "type" : "git", "url" : "http://github.com/cloudhead/eyes.js.git"}
 }
